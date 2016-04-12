@@ -13,7 +13,7 @@ The quickest way to contribute new tests is to:
 1. Install the Jupyter Notebook through an existing Python distribution, such as [Canopy Python](https://www.enthought.com/products/canopy/)
 2. Install 'pip' from that distribution
 3. Install MATLAB
-4. Install the MATLAB kernel for IPython with 'pip install matlab_kernel'
+4. Install the [MATLAB kernel](https://pypi.python.org/pypi/matlab_kernel) for IPython with 'pip install matlab_kernel'
 5. Start the IPython Notebook within the 'matlab-tests' directory with 'ipython notebook'
 6. Add tests within a single suite (Notebook) or add a new suite (Notebook)
 7. Do a pull request
