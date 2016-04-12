@@ -19,5 +19,5 @@ The quickest way to contribute new tests is to:
 
 # Citation
 
-At the moment, formal publication has been made about this suite. Please simply refer to the repository on Github as https://github.com/Sable/matlab-tests.
+At the moment, no formal publication has been made about this suite. Please simply refer to the repository on Github as https://github.com/Sable/matlab-tests.
 
