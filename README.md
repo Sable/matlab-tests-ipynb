@@ -1,4 +1,7 @@
-# matlab-tests
+# matlab-tests-ipynb
+
+DEPRECATED: We now favor a definition of tests in pure MATLAB that does not depend in IPython Notebook because our static compilers do not play well with it. See https://github.com/Sable/matlab-tests for the most recent suite.
+
 Collection of unit tests and expected results to check compliance with the MATLAB semantics.
 
 The tests are specified using the [Jupyter Notebook format](http://nbformat.readthedocs.org/en/latest/format_description.html#notebook-file-format), a JSON format that stores the result of an interactive session in a [Jupyter Notebook](http://jupyter-notebook.readthedocs.org/en/latest/notebook.html) with a [Jupyter Kernel](http://jupyter-client.readthedocs.org/en/latest/kernels.html), in this case a MATLAB-compatible one.
@@ -20,5 +23,5 @@ The quickest way to contribute new tests is to:
 
 # Citation
 
-At the moment, no formal publication has been made about this suite. Please simply refer to the repository on Github as https://github.com/Sable/matlab-tests.
+At the moment, no formal publication has been made about this suite. Please simply refer to the repository on Github as https://github.com/Sable/matlab-tests-ipynb.
 
