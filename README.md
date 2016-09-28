@@ -1,6 +1,6 @@
-# matlab-tests-ipynb
+DEPRECATED: *We now favor a definition of tests in pure MATLAB that does not depend in IPython Notebook because our static compilers do not play well with it. See https://github.com/Sable/matlab-tests for the most recent suite.*
 
-DEPRECATED: We now favor a definition of tests in pure MATLAB that does not depend in IPython Notebook because our static compilers do not play well with it. See https://github.com/Sable/matlab-tests for the most recent suite.
+# matlab-tests-ipynb
 
 Collection of unit tests and expected results to check compliance with the MATLAB semantics.
 
